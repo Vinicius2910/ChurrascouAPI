@@ -1,2 +1,2 @@
 # ChurrascouAPI
-API that return all stake prices for the front end application Churrascou
+API that returns all stake prices for the front end application Churrascou
